@@ -12,17 +12,25 @@ var value = process.argv[3];
 liriAction(action, value);
 
 function liriAction(action, value) {
-    fs.appendFile("log.txt", action + "\n", function (err) {
+    fs.appendFileSync("log.txt", action + "\n", function (err) {
         if (err) {
             console.log(err);
         }
     })
     switch (action) {
         case "spotify-this-song":
+            if(!value)
+            {
+                value = "The Sign, Ace of Base"
+            }
             spotifyThis(value);
             break;
 
         case "movie-this":
+            if(!value)
+            {
+                value = "Mr. Nobody"
+            }
             movieThis(value);
             break;
 
@@ -37,11 +45,7 @@ function liriAction(action, value) {
 }
 
 function spotifyThis(value) {
-    if(value == NULL)
-    {
-        value = "The Sign"
-    }
-    fs.appendFile("log.txt", "Searching for song: " + value + "\n", function (err) {})
+    fs.appendFileSync("log.txt", "Searching for song: " + value + "\n", function (err) {})
     console.log("Searching for song....");
     console.log("-----");
     spotify.search({
@@ -57,21 +61,21 @@ function spotifyThis(value) {
             for(var i = 0; i < results.length; i++)
             {
                 console.log("Artist: " + results[i].artists[0].name);
-                fs.appendFile("log.txt", "Artist: " + results[i].artists[0].name + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "Artist: " + results[i].artists[0].name + "\n", function (err) {});
                 console.log("Preview URL: " + results[i].preview_url);
-                fs.appendFile("log.txt", "Preview URL: " + results[i].preview_url + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "Preview URL: " + results[i].preview_url + "\n", function (err) {});
                 console.log("Song Name: " + results[i].name);
-                fs.appendFile("log.txt", "Song Name: " + results[i].name + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "Song Name: " + results[i].name + "\n", function (err) {});
                 console.log("Album Name: " + results[i].album.name);
-                fs.appendFile("log.txt", "Album Name: " + results[i].album.name + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "Album Name: " + results[i].album.name + "\n", function (err) {});
                 console.log("----")
-                fs.appendFile("log.txt", "-----" + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "-----" + "\n", function (err) {});
             }
         });
 }
 
 function concertThis(value) {
-    fs.appendFile("log.txt", "Searching for concerts featuring: " + value + "\n", function (err) {})
+    fs.appendFileSync("log.txt", "Searching for concerts featuring: " + value + "\n", function (err) {})
     console.log("Searching for concerts featuring: " + value);
     console.log("-----");
     var artist = value;
@@ -83,13 +87,13 @@ function concertThis(value) {
 
             for (var i = 0; i < response.data.length; i++) {
                 console.log("Venue Name: " + response.data[i].venue.name);
-                fs.appendFile("log.txt", "Venue Name: " + response.data[i].venue.name + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "Venue Name: " + response.data[i].venue.name + "\n", function (err) {});
                 console.log("Venue Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region);
-                fs.appendFile("log.txt", "Venue Location: " + response.data[i].venue.city + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "Venue Location: " + response.data[i].venue.city + "\n", function (err) {});
                 console.log("Date: " + moment(response.data[i].datetime).format('MM/DD/YYYY'));
-                fs.appendFile("log.txt", "Date: " + moment(response.data[i].datetime).format('MM/DD/YYYY') + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "Date: " + moment(response.data[i].datetime).format('MM/DD/YYYY') + "\n", function (err) {});
                 console.log("-----");
-                fs.appendFile("log.txt", "-----" + "\n", function (err) {});
+                fs.appendFileSync("log.txt", "-----" + "\n", function (err) {});
             }
         })
         .catch(function (error) {
@@ -107,11 +111,7 @@ function concertThis(value) {
 }
 
 function movieThis(value) {
-    if(value == "")
-    {
-        value = "Mr. Nobody"
-    }
-    fs.appendFile("log.txt", "Searching for movie: " + value + "\n", function (err) {});
+    fs.appendFileSync("log.txt", "Searching for movie: " + value + "\n", function (err) {});
     console.log("Searching for " + value);
     console.log("-----");
     var movie = value;
@@ -121,22 +121,22 @@ function movieThis(value) {
         .get(queryUrl)
         .then(function (response) {
             console.log("Title: " + response.data.Title);
-            fs.appendFile("log.txt", "Title: " + response.data.Title + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "Title: " + response.data.Title + "\n", function (err) {});
             console.log("Release Year: " + response.data.Year);
-            fs.appendFile("log.txt", "Release Year: " + response.data.Year + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "Release Year: " + response.data.Year + "\n", function (err) {});
             console.log("iMDB Rating: " + response.data.Ratings[0].Value);
-            fs.appendFile("log.txt", "iMDB Rating: " + response.data.Ratings[0].Value + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "iMDB Rating: " + response.data.Ratings[0].Value + "\n", function (err) {});
             console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
-            fs.appendFile("log.txt", "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n", function (err) {});
             console.log("Production Country: " + response.data.Country);
-            fs.appendFile("log.txt", "Production Country: " + response.data.Country + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "Production Country: " + response.data.Country + "\n", function (err) {});
             console.log("Movie Languages: " + response.data.Language);
-            fs.appendFile("log.txt", "Movie Languages: " + response.data.Language + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "Movie Languages: " + response.data.Language + "\n", function (err) {});
             console.log("Plot: " + response.data.Plot);
-            fs.appendFile("log.txt", "Plot: " + response.data.Plot + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "Plot: " + response.data.Plot + "\n", function (err) {});
             console.log("Actors: " + response.data.Actors);
-            fs.appendFile("log.txt", "Actors: " + response.data.Actors + "\n", function (err) {});
-            fs.appendFile("log.txt", "-----" + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "Actors: " + response.data.Actors + "\n", function (err) {});
+            fs.appendFileSync("log.txt", "-----" + "\n", function (err) {});
         })
         .catch(function (error) {
             if (error.response) {
