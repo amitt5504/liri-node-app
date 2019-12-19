@@ -27,6 +27,6 @@ This command returns the name of the venue, the city the venue is located in and
 #movie-this
 This command returns the title of the movie, the release year, iMDB/Rotten Tomatoes rating, plot, actors, movie languages and production company. If the command is run with no movie entered, the results will show for the movie "Mr. Nobody".
 
-![log of movie results](https://drive.google.com/file/d/131Scxk2mRjMhLxBmdonoI9kCY9s4l2qk/view?usp=sharing)
+![log of movie results](https://drive.google.com/file/d/131Scxk2mRjMhLxBmdonoI9kCY9s4l2qk/view)
 
 All commands and results are stored in a txt file for the user.
