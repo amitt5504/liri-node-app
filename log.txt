@@ -20,3 +20,343 @@ Movie Languages: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 -----
+concert-this
+Searching for concerts featuring: Lupe Fiasco
+Venue Name: Summit
+Venue Location: Denver
+Date: 02/08/2020
+-----
+Venue Name: Belly Up Aspen
+Venue Location: Aspen
+Date: 02/09/2020
+-----
+Venue Name: The Agora Theatre 
+Venue Location: Cleveland
+Date: 03/14/2020
+-----
+Venue Name: Showbox SoDo
+Venue Location: Seattle
+Date: 03/15/2020
+-----
+Venue Name: Brooklyn Steel
+Venue Location: Brooklyn
+Date: 03/20/2020
+-----
+Venue Name: The Fox Theater Pomona
+Venue Location: Pomona
+Date: 04/02/2020
+-----
+Venue Name: Humphreys Concerts By the Bay
+Venue Location: San Diego
+Date: 04/03/2020
+-----
+Venue Name: The Warfield
+Venue Location: San Francisco
+Date: 04/04/2020
+-----
+spotify-this-song
+Searching for song: Mask Off
+Artist: Future
+Preview URL: https://p.scdn.co/mp3-preview/0519fc7c44d418ca6c721d9aa83e9597065288e1?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off
+Album Name: FUTURE
+-----
+Artist: Future
+Preview URL: https://p.scdn.co/mp3-preview/c51f0986f9a2e8d6058044b9d0b136b20766a99f?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off - Remix
+Album Name: Mask Off (Remix)
+-----
+Artist: XXXTENTACION
+Preview URL: https://p.scdn.co/mp3-preview/a6a865edbb34382496c57c12ad98dafa00984367?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Off the Wall!
+Album Name: Members Only, Vol. 3
+-----
+Artist: Future
+Preview URL: https://p.scdn.co/mp3-preview/eb032647fdef6e806610e5d7f84c82c6e88ed6a7?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off - Marshmello Remix
+Album Name: Mask Off (Marshmello Remix)
+-----
+Artist: Future
+Preview URL: https://p.scdn.co/mp3-preview/165eadd647c89f6bbcf87c680c5144d4b291c65e?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off
+Album Name: FUTURE
+-----
+Artist: Future
+Preview URL: https://p.scdn.co/mp3-preview/4ddd76ab4e404cb3277be668fd72e2f2cef734eb?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off - Remix
+Album Name: FUTURE
+-----
+Artist: Future
+Preview URL: https://p.scdn.co/mp3-preview/527ba76a7c265f4429c51b3a12c5cab474cf4675?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off - Remix
+Album Name: Mask Off (Remix)
+-----
+Artist: The Last Mr. Bigg
+Preview URL: https://p.scdn.co/mp3-preview/340c5c37cbebd72321fed8f2e32bff24559bb844?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Long Hair
+Album Name: The Mask Is Off
+-----
+Artist: The Last Mr. Bigg
+Preview URL: https://p.scdn.co/mp3-preview/3b3b7f014382652ee777f412eda837d638ed1209?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Top Down (feat. Lil' Flip)
+Album Name: The Mask Is Off
+-----
+Artist: JayDaYoungan
+Preview URL: https://p.scdn.co/mp3-preview/8a9796630054b6ef457ab93b06ba6a5905e281b0?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: No Mask
+Album Name: Taking Off
+-----
+Artist: Miky Woodz
+Preview URL: https://p.scdn.co/mp3-preview/57a5131928634526c9f0f750710fe1b58b3159bc?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Nunca Envidié - Mask Off Freestyle
+Album Name: KING of Spanish Versions
+-----
+Artist: HunesBeats
+Preview URL: https://p.scdn.co/mp3-preview/9bea545d84482cb41b61bb8db55e2581fa68f992?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off Oldschool - Remix
+Album Name: Mask Off Oldschool (Remix)
+-----
+Artist: biosphere
+Preview URL: https://p.scdn.co/mp3-preview/d6762c21e836f4ecb2df4fbaac945c8bad403204?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: it's time to take my mask off
+Album Name: Summer Festival
+-----
+Artist: 8-Bit Trap God
+Preview URL: https://p.scdn.co/mp3-preview/6faf57c0814b02be9cd40dd1f572212277323e1b?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off
+Album Name: Mask Off
+-----
+Artist: Hans Zimmer
+Preview URL: null
+Song Name: Never Take Off the Mask
+Album Name: The Lone Ranger
+-----
+Artist: Future
+Preview URL: https://p.scdn.co/mp3-preview/590bc6dde9a4dd2cb14eec3467a882f948ae49a9?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off - Marshmello Remix
+Album Name: NOW Party Anthems, Vol. 4
+-----
+Artist: Mariel Darling
+Preview URL: https://p.scdn.co/mp3-preview/2622c4d63c4ff7c2e5051d5d529f8844e20402ef?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off
+Album Name: Mask Off
+-----
+Artist: Xxa$H
+Preview URL: https://p.scdn.co/mp3-preview/df8f108ac66ae24adc6e6cce95a5154ef337115a?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mask Off
+Album Name: Mask Off
+-----
+Artist: Nero's Day At Disneyland
+Preview URL: https://p.scdn.co/mp3-preview/32d0d6a5dcd952572829af3b5b29b8015939c633?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Godzilla Take Your Mask Off
+Album Name: Attention Shoppers
+-----
+Artist: The Last Mr. Bigg
+Preview URL: https://p.scdn.co/mp3-preview/a1106ebc23a03b1f77d942133d5939c1e09090b3?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Last Mr. Bigg
+Album Name: The Mask Is Off
+-----
+spotify-this-song
+Searching for song: The Sign, Ace of Base
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: The Sign
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: All That She Wants
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: The Sign
+Album Name: Greatest Hits
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Don't Turn Around
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Wheel of Fortune
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Happy Nation
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Living in Danger
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Dancer in a Daydream
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Waiting for Magic - Total Remix 7" Version
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Young and Proud
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: The Sign
+Album Name: Happy Nation (U.S. Version) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Voulez-Vous danser
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: My Mind - Mindless Mix
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: All That She Wants - Banghra Version
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Mr Ace - Demo 1991 Bonus Track
+Album Name: The Sign (US Album) [Remastered]
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: The Sign
+Album Name: The Sign (The Remixes)
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: The Sign - Long Version
+Album Name: The Sign (The Remixes)
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: The Sign - Ultimix
+Album Name: The Sign (The Remixes)
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/640aadf376418d68ff4d6f0c1e0dd4e28756162c?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: The Sign - Remastered
+Album Name: Greatest Hits (Bonus Track Version)
+-----
+Artist: Ace of Base
+Preview URL: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: The Sign - Long Version
+Album Name: The Sign (The Remixes)
+-----
+do-what-it-says
+Searching for song: "I Want it That Way"
+Artist: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+-----
+Artist: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: Millennium
+-----
+Artist: Mick Jensen
+Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+-----
+Artist: Anthem Lights
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: Covers Part IV
+-----
+Artist: "Weird Al" Yankovic
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+-----
+Artist: Tyler and Mark
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: Beautiful Dreams
+-----
+Artist: Dynamite Boy
+Preview URL: null
+Song Name: I Want It That Way
+Album Name: Punk Goes Pop
+-----
+Artist: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way - Reimagined
+Album Name: I Want It That Way (Reimagined)
+-----
+Artist: Steel Panther
+Preview URL: null
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+-----
+Artist: Jess and Gabriel
+Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: Under the Covers, Vol. 3
+-----
+Artist: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+-----
+Artist: Glee Cast
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+-----
+Artist: Scary Pockets
+Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: Nu Funk
+-----
+Artist: Boyce Avenue
+Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: Cover Sessions, Vol. 2
+-----
+Artist: Cassidy Janson
+Preview URL: https://p.scdn.co/mp3-preview/6df704bcaee02f82fefacbfaaca2ab8858119947?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: & Juliet (Original London Cast Recording)
+-----
+Artist: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: NKOTBSB
+-----
+Artist: Manuel Costa
+Preview URL: null
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+-----
+Artist: Yshop
+Preview URL: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: I Want It That Way
+-----
+Artist: Scott Bradlee's Postmodern Jukebox
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=5d57613ac763472dadfa900552b5b1f2
+Song Name: I Want It That Way
+Album Name: Selfies on Kodachrome
+-----
+Artist: Manuel Costa
+Preview URL: null
+Song Name: I Want It That Way - Manuel's Southbeat Mix
+Album Name: I Want It That Way (The Remixes)
+-----
